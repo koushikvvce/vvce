@@ -1,2 +1,2 @@
-print("im koushik frm vvce")
-print("im koushik frm dsection")
+print("I'm Koushik from VVCE")
+print("I'm Koushik from D section")
